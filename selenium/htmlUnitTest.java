@@ -17,7 +17,7 @@ public class htmlUnitTest {
 
 		// This code will test and print the page title
 		String pageTitle = driver.getTitle();
-		Assert.assertNotEquals(pageTitle, "");
+		Assert.assertNotEquals(pageTitle, "test");
 		Assert.assertFalse(pageTitle.matches("^\\s*$")); // uses regexp
 		System.out.println("Page title is: " + pageTitle);
 
