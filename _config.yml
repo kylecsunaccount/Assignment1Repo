@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is Kyle's testsite for CIT496P.
 baseurl: "/gumball" # the subpath of your site, e.g. /blog
 url: "http://wrong-testsite.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: I Don't Use Twitter
+twitter_username: gumball
 github_username:  kylecsunaccount
 
 # Build settings
